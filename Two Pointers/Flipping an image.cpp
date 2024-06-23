@@ -1,6 +1,6 @@
 // 832.  Flipping An Image
 // Description:
-// Flip the binary matrix horizonrally and invert it.
+// Flip the binary matrix horizontally and invert it.
 
 // Link:  
 // https://leetcode.com/problems/flipping-an-image/

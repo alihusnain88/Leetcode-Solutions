@@ -4,6 +4,9 @@
 // Shuffle the string such that the character at the ith position 
 // moves to indices[i] in the shuffled string.
 
+// Link:
+// https://leetcode.com/problems/shuffle-string/
+
 // Solution:
 class Solution {
 public:
